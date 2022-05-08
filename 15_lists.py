@@ -3,6 +3,7 @@ print(a)
 
 print(a[3])
 
+# lists can be updated
 a[0]=1
 
 print(a)
